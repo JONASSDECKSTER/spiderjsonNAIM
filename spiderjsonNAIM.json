@@ -1,6 +1,6 @@
 {
     "ads": {
-		"showAds": true,
+		"showAds": false,
 		"bannerAd": "max",
 		"interstitialAd": "max",
 		"nativeAd": "max",
